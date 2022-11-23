@@ -15,7 +15,7 @@
     "express-healthcheck": "^0.1.0",
     "express-metrics": "^1.1.0",
     "express-prometheus-middleware": "^0.8.5",
-    "express-status-monitor": "^1.2.10",
+    "express-status-monitor": "^1.3.4",
     "knex": "^0.20.13",
     "microtime": "^3.0.0",
     "prometheus-api-metrics": "^2.2.3",
